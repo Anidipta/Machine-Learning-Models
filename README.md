@@ -11,6 +11,7 @@ Don't forget to star⭐ this repo if you find it helpful!
 To reach me : anidiptapal@gmail.com
 
 ## Model Notebook List-
+Sure, here's the list with number 11 deleted:
 
 1. **Air_Quality_Prediction.ipynb** - Predicting air quality levels based on various environmental factors.
 
@@ -32,16 +33,14 @@ To reach me : anidiptapal@gmail.com
 
 10. **Penguin_Classification.ipynb** - Classifying penguin species based on various features.
 
-11. **Protein_Fat_Supply.ipynb** - Analyzing protein and fat supply in a given dataset.
+11. **Sales_Prediction.ipynb** - Predicting sales figures for a business based on historical data and other factors.
 
-12. **Sales_Prediction.ipynb** - Predicting sales figures for a business based on historical data and other factors.
+12. **Spaceship_Titanic_Classification.ipynb** - Classifying spaceships in a fictional context similar to Titanic's classification.
 
-13. **Spaceship_Titanic_Classification.ipynb** - Classifying spaceships in a fictional context similar to Titanic's classification.
+13. **Titanic_Classification.ipynb** - Predicting survival on the Titanic using passenger data.
 
-14. **Titanic_Classification.ipynb** - Predicting survival on the Titanic using passenger data.
+14. **Weather_Prediction.ipynb** - Predicting weather conditions based on historical data and meteorological factors.
 
-15. **Weather_Prediction.ipynb** - Predicting weather conditions based on historical data and meteorological factors.
+15. **Wine_Quality_Prediction.ipynb** - Predicting the quality of wine based on various attributes.
 
-16. **Wine_Quality_Prediction.ipynb** - Predicting the quality of wine based on various attributes.
-
-17. **land-cover-and-land-use-classification.ipynb** - Classifying land cover and land use based on satellite imagery.
+16. **land-cover-and-land-use-classification.ipynb** - Classifying land cover and land use based on satellite imagery.
