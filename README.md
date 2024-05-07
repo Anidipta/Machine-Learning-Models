@@ -11,7 +11,6 @@ Don't forget to star⭐ this repo if you find it helpful!
 To reach me : anidiptapal@gmail.com
 
 ## Model Notebook List-
-Sure, here's the list with number 11 deleted:
 
 1. **Air_Quality_Prediction.ipynb** - Predicting air quality levels based on various environmental factors.
 
