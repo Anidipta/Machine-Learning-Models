@@ -17,8 +17,8 @@ If you find this repository helpful, please give it a star ⭐ to support the ef
 
 For inquiries and feedback, contact me at: [anidiptapal@gmail.com](mailto:anidiptapal@gmail.com) 📧
 
-
-Got it! Here’s the updated list with links formatted as "Click Here":
+## Model Notebook List-
+Here’s a description of each notebook with objectives, uses, and what you can learn from them:
 
 ### 1. **Air_Quality_Prediction.ipynb** --> [Click Here](Air_Quality_Prediction.ipynb)
    - **Objective**: Predict air quality levels based on various environmental and meteorological factors.
