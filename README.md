@@ -5,7 +5,7 @@ Hello everyone! 👋
 I'm thrilled to share an exciting collection of machine learning models and projects that are perfect for beginners diving into ML, computer vision, data science, and analytics. 🚀 This repository is packed with practical examples and models designed to help you kickstart your journey in these dynamic fields.
 
 **What You'll Find Here:**
-- **Diverse Projects**: From **classification** and **regression** to **clustering** and **computer vision** tasks. 🧠📊
+- **Diverse Projects**: From **classification** and **regression** to **clustering**  tasks. 🧠📊
 - **Hands-On Learning**: Practical examples to deepen your understanding and skills. 💡🔍
 - **Inspiration and Guidance**: Use these projects as a foundation to build upon and innovate. 🌟🚀
 
