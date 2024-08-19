@@ -21,7 +21,7 @@ For inquiries and feedback, contact me at: [anidiptapal@gmail.com](mailto:anidip
 ## Model Notebook List-
 Here’s a description of each notebook with objectives, uses, and what you can learn from them:
 
-### 1. **Air_Quality_Prediction.ipynb**
+### 1. **Air_Quality_Prediction.ipynb** --> [Click Here](Air_Quality_Prediction.ipynb)
    - **Objective**: Predict air quality levels based on various environmental and meteorological factors.
    - **Uses**: Can be used by environmental agencies, health organizations, and urban planners to monitor and improve air quality.
    - **Things We Can Learn**: Understanding the impact of environmental factors on air quality, model performance in predicting pollution levels.
