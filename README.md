@@ -17,7 +17,7 @@ If you find this repository helpful, please give it a star ⭐ to support the ef
 
 For inquiries and feedback, contact me at: [anidiptapal@gmail.com](mailto:anidiptapal@gmail.com) 📧
 
-## Model Notebook List-
+## Model Notebook List -->
 Here’s a description of each notebook with objectives, uses, and what you can learn from them:
 
 ### 1. **Air_Quality_Prediction.ipynb** --> [Click Here](Air_Quality_Prediction.ipynb)
@@ -30,12 +30,12 @@ Here’s a description of each notebook with objectives, uses, and what you can 
    - **Uses**: Useful for financial institutions to identify and prevent fraudulent activities in credit card transactions.
    - **Things We Can Learn**: Techniques for detecting fraud, handling imbalanced datasets, and evaluating the effectiveness of fraud detection models.
 
-### 3. **Customer_Churn_Prediction.ipynb** --> [Click Here](Customer_Churn_Prediction.ipynb)
+### 3. **Customer_Churn_Prediction.ipynb** -->  [Click Here](Customer_Churn_Prediction.ipynb)
    - **Objective**: Predict customer churn or retention based on historical customer data.
    - **Uses**: Helps businesses identify at-risk customers and develop strategies to retain them.
    - **Things We Can Learn**: Methods for predicting customer behavior, analyzing factors leading to churn, and improving customer retention strategies.
 
-### 4. **Diabetes_Prediction.ipynb** --> [Click Here](Diabetes_Prediction.ipynb)
+### 4. **Diabetes_Prediction.ipynb** -->  [Click Here](Diabetes_Prediction.ipynb)
    - **Objective**: Predict the likelihood of diabetes in individuals based on their medical and lifestyle data.
    - **Uses**: Assists in early diagnosis and prevention of diabetes, useful for healthcare providers and individuals.
    - **Things We Can Learn**: Predictive modeling techniques for health data, factors influencing diabetes risk, and evaluating model accuracy.
